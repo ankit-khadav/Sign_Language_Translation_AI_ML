@@ -17,20 +17,20 @@ Press 1 → CNN Mode<br>
 Press 2 → Landmark Mode<br>
 Press 3 → Hybrid Mode<br><br>
 🧪 Tech Stack<br>
-Python<br>
-TensorFlow / Keras<br>
-OpenCV<br>
-MediaPipe<br>
-Scikit-learn<br>
-NumPy<br><br>
+1. Python<br>
+2. TensorFlow / Keras<br>
+3. OpenCV<br>
+4. MediaPipe<br>
+5. Scikit-learn<br>
+6. NumPy<br><br>
 📊 AI Models Used<br>
-CNN Model<br>
-Trained on ~87,000 gesture images<br>
-Image-based classification<br>
-Landmark Model<br>
-21 hand keypoints (63 features)<br>
-Random Forest classifier<br>
-~98% dataset accuracy<br>
-Hybrid Model<br>
-Combines CNN + Landmark predictions<br>
-Improves real-time stability<br>
+1. CNN Model<br>
+  i. Trained on ~87,000 gesture images<br>
+  ii. Image-based classification<br>
+2. Landmark Model<br>
+  i. 21 hand keypoints (63 features)<br>
+  ii. Random Forest classifier<br>
+  iii. ~98% dataset accuracy<br>
+3. Hybrid Model<br>
+  i. Combines CNN + Landmark predictions<br>
+  ii. Improves real-time stability<br>
